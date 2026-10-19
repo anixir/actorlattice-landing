@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
-<loc>https://actorlattice.com/</loc>
-<changefreq>weekly</changefreq>
-<priority>1</priority>
-</url>
-<url>
 <loc>https://actorlattice.com/en/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/" />
 <changefreq>weekly</changefreq>
 <priority>0.9</priority>
 </url>
@@ -16,6 +12,7 @@
 <loc>https://actorlattice.com/brpt/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/" />
 <changefreq>weekly</changefreq>
 <priority>0.9</priority>
 </url>
@@ -23,6 +20,7 @@
 <loc>https://actorlattice.com/en/solutions/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/solutions/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/solutions/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/solutions/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -30,6 +28,7 @@
 <loc>https://actorlattice.com/brpt/solutions/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/solutions/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/solutions/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/solutions/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -37,6 +36,7 @@
 <loc>https://actorlattice.com/en/solutions/law-firms/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/solutions/law-firms/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/solutions/law-firms/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/solutions/law-firms/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -44,6 +44,7 @@
 <loc>https://actorlattice.com/brpt/solutions/law-firms/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/solutions/law-firms/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/solutions/law-firms/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/solutions/law-firms/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -51,6 +52,7 @@
 <loc>https://actorlattice.com/en/solutions/other-markets/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/solutions/other-markets/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/solutions/other-markets/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/solutions/other-markets/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -58,6 +60,7 @@
 <loc>https://actorlattice.com/brpt/solutions/other-markets/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/solutions/other-markets/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/solutions/other-markets/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/solutions/other-markets/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -65,6 +68,7 @@
 <loc>https://actorlattice.com/en/product/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/product/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/product/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/product/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -72,6 +76,7 @@
 <loc>https://actorlattice.com/brpt/product/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/product/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/product/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/product/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -79,6 +84,7 @@
 <loc>https://actorlattice.com/en/product/sentinel/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/product/sentinel/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/product/sentinel/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/product/sentinel/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -86,6 +92,7 @@
 <loc>https://actorlattice.com/brpt/product/sentinel/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/product/sentinel/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/product/sentinel/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/product/sentinel/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -93,6 +100,7 @@
 <loc>https://actorlattice.com/en/product/actordb/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/product/actordb/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/product/actordb/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/product/actordb/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -100,6 +108,7 @@
 <loc>https://actorlattice.com/brpt/product/actordb/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/product/actordb/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/product/actordb/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/product/actordb/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -107,6 +116,7 @@
 <loc>https://actorlattice.com/en/product/spinoza/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/product/spinoza/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/product/spinoza/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/product/spinoza/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -114,6 +124,7 @@
 <loc>https://actorlattice.com/brpt/product/spinoza/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/product/spinoza/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/product/spinoza/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/product/spinoza/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -121,6 +132,7 @@
 <loc>https://actorlattice.com/en/customers/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/customers/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/customers/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/customers/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -128,6 +140,7 @@
 <loc>https://actorlattice.com/brpt/customers/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/customers/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/customers/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/customers/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -135,6 +148,7 @@
 <loc>https://actorlattice.com/en/early-adopters/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/early-adopters/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/early-adopters/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/early-adopters/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -142,6 +156,7 @@
 <loc>https://actorlattice.com/brpt/early-adopters/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/early-adopters/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/early-adopters/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/early-adopters/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -149,6 +164,7 @@
 <loc>https://actorlattice.com/en/resources/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/resources/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/resources/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/resources/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -156,6 +172,7 @@
 <loc>https://actorlattice.com/brpt/resources/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/resources/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/resources/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/resources/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -163,6 +180,7 @@
 <loc>https://actorlattice.com/en/resources/how-it-works/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/resources/how-it-works/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/resources/how-it-works/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/resources/how-it-works/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -170,6 +188,7 @@
 <loc>https://actorlattice.com/brpt/resources/how-it-works/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/resources/how-it-works/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/resources/how-it-works/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/resources/how-it-works/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -177,6 +196,7 @@
 <loc>https://actorlattice.com/en/enterprise/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/enterprise/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/enterprise/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/enterprise/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -184,6 +204,7 @@
 <loc>https://actorlattice.com/brpt/enterprise/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/enterprise/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/enterprise/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/enterprise/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -191,6 +212,7 @@
 <loc>https://actorlattice.com/en/integrations/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/integrations/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/integrations/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/integrations/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -198,6 +220,7 @@
 <loc>https://actorlattice.com/brpt/integrations/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/integrations/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/integrations/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/integrations/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -205,6 +228,7 @@
 <loc>https://actorlattice.com/en/pricing/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/pricing/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/pricing/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/pricing/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -212,6 +236,7 @@
 <loc>https://actorlattice.com/brpt/pricing/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/pricing/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/pricing/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/pricing/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -219,6 +244,7 @@
 <loc>https://actorlattice.com/en/request-demo/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/request-demo/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/request-demo/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/request-demo/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -226,6 +252,7 @@
 <loc>https://actorlattice.com/brpt/request-demo/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/request-demo/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/request-demo/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/request-demo/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -233,6 +260,7 @@
 <loc>https://actorlattice.com/en/about/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/about/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/about/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/about/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -240,6 +268,7 @@
 <loc>https://actorlattice.com/brpt/about/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/about/" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/about/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/about/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
