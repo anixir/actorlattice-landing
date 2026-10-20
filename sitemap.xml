@@ -288,4 +288,20 @@
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
+<url>
+<loc>https://actorlattice.com/en/resources/documentation/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/resources/documentation/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/resources/documentation/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/resources/documentation/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://actorlattice.com/brpt/resources/documentation/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://actorlattice.com/en/resources/documentation/" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://actorlattice.com/brpt/resources/documentation/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://actorlattice.com/en/resources/documentation/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
 </urlset>
