@@ -1,4 +1,4 @@
 :HL["/_next/static/css/58b0fd29c6a3e78b.css","style"]
 :HL["/_next/static/css/81a51efad5bb620c.css","style"]
 :HL["/assets/brand/ActorLattice-Logo-Mark.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"slug","param":{"type":"c","key":"en/solutions/law-firms","siblings":["_not-found","_global-error","icon.svg","robots.txt","sitemap.xml"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"AymIoywDVDcWlvyTL7gqm"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"slug","param":{"type":"c","key":"en/solutions/law-firms","siblings":["_not-found","_global-error","icon.svg","robots.txt","sitemap.xml"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"fAwyNgfc0An2neUUS7i0Y"}
