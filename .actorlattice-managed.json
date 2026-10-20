@@ -1,6 +1,6 @@
 {
   "schemaVersion": "actorlattice.managed/v1",
-  "repository": "amansx/actorlattice",
+  "repository": "anixir/actorlattice-landing",
   "branch": "main",
   "domain": "actorlattice.com",
   "files": [
