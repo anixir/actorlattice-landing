@@ -1,4 +1,4 @@
 :HL["/_next/static/css/da1c0d5ae1b86bc8.css","style"]
 :HL["/_next/static/css/49b6c05b7fd197fb.css","style"]
 :HL["/assets/brand/ActorLattice-Logo-Mark.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"slug","param":{"type":"c","key":"en/product/spinoza","siblings":["_not-found","_global-error","icon.svg","robots.txt","sitemap.xml"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"6gXKSBek24dEIaaiUjtZo"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"slug","param":{"type":"c","key":"en/product/spinoza","siblings":["_not-found","_global-error","icon.svg","robots.txt","sitemap.xml"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"CWbrmqbn9Z9tqKJpkWO4f"}
