@@ -1,4 +1,4 @@
-:HL["/_next/static/css/155191b6020cf485.css","style"]
-:HL["/_next/static/css/81a51efad5bb620c.css","style"]
+:HL["/_next/static/css/cc56c581cc5f2d42.css","style"]
+:HL["/_next/static/css/49b6c05b7fd197fb.css","style"]
 :HL["/assets/brand/ActorLattice-Logo-Mark.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"slug","param":{"type":"c","key":"brpt","siblings":["_not-found","_global-error","icon.svg","robots.txt","sitemap.xml"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"Ilxl6WIrIh1YajqaiSLjs"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"slug","param":{"type":"c","key":"brpt","siblings":["_not-found","_global-error","icon.svg","robots.txt","sitemap.xml"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"Xc6FENg4ycjirpcQnPUii"}
